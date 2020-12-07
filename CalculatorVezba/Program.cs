@@ -8,7 +8,7 @@ namespace CalculatorVezba
         {
             Console.WriteLine("Hello World!");
             Calculator Casio = new Calculator();
-            Casio.name = "Casio1";
+            Casio.name = "Casio";
             Console.WriteLine(Casio.name);
             Console.WriteLine(Casio.soberi(5,3));
             Console.WriteLine(Casio.odzemi(6, 2));
